@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070771745933",
+    "project_id": "flash-chat-f1632",
+    "storage_bucket": "flash-chat-f1632.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070771745933:android:1db96df58dcd668844dec4",
+        "android_client_info": {
+          "package_name": "com.hyder.flash_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKvy3uIIQK5jopSm-_NLUJ8jLrHoBHOwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
